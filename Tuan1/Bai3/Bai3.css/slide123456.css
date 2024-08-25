@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+div{
+    width: 800px;
+    height: 700px;
+    border: solid 2px black;
+    padding-left: 2px;
+}
+span{
+    padding-right: 30px;
+}
+.img1{
+    width: 90px;
+    height: 50px;
+    padding-right: 4px; 
+}
+.img2{
+    width: 90px;
+    height: 50px;
+    padding-right:0px; 
+}
+.img3{
+    width: 600px;
+    height: 350px;
+}
+hr{
+    margin: 5px 0;
+}
+p{
+    font-style: italic;
+    font-size: 15px;
+    padding-left: 50px;
+
+}
+a{
+    padding-bottom: 5px;
+    color: white;
+}
